@@ -1,8 +1,8 @@
 <h1>Human Pose Estimation</h1>
 
-<img src="./media/screenshot1.png" alt="Pose estiamtion" width="250"> 
+<img src="./media/Screenshot1.png" alt="Pose estiamtion" width="250"> 
 
-Human pose estimation expirement using several models:
+Human pose estimation experiment using several models:
 
 + [Hourglass network (from-scratch)](https://github.com/princeton-vl/pytorch_stacked_hourglass)
 + [YOLOv8 Pose-nano (fine-tuned)](https://github.com/ultralytics/assets/releases/download/v8.3.0/yolo8n-pose.pt)
