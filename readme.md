@@ -1,6 +1,6 @@
 <h1>Human Pose Estimation</h1>
 
-<img src="./media/screenshot1.png" alt="Alt text" height="400"/>
+<img src="./media/screenshot1.png" alt="Pose estiamtion" width="250"> 
 
 Human pose estimation expirement using several models:
 
